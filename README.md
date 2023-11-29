@@ -3,3 +3,6 @@ Upon Gravity Forms submission, store all entered values in a database, create a 
 
 # Before activation
 This plugin operates when the Gravity Forms plugin is present.
+
+# Folder
+Use this plugin on same name folder "gravity-forms-pdf-integration"
